@@ -86,3 +86,6 @@ Trong quá trình làm bài lab, mình có gặp một số sự cố thực t�
         Khắc phục: Chuyển sang SSH 100% từ Windows Terminal để dễ dàng thao tác copy/paste lệnh.
 📸 Minh chứng kết quả :
 Kiểm tra Container chạy ngầm (docker ps):
+![Minh chứng 1](./minhchung1.png)
+Test HTTP Response 200 OK từ PowerShell:
+![Minh chứng 2](./minhchung2.png)
